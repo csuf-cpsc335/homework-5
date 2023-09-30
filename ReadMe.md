@@ -4,7 +4,7 @@ In this homework assignment, you will implement Depth Wise and Breadth Wise Tree
     1. InOrder
     2. PreOrder
     3. PostOrder
-- Bread Wise
+- Breadth Wise
 
 For better understanding of how you can implement these algorithms, I have already added the code for `InOrder` traversal. (Feel free to change it if you want)
 
